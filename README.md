@@ -27,3 +27,5 @@ Then you can edit `bin/archive-punch` and run `archive-punch summary <client>` t
 ### Notes
 
 I prefer to use a client name without spaces.
+
+If you triple-click on the project description from the `punch summary` view, your terminal should select the entire description (makes for easy copy/paste).
